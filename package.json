@@ -1,0 +1,20 @@
+{
+  "name": "resumecraft",
+  "version": "1.0.0",
+  "description": "ResumeCraft — Simple, fully responsive dark-mode Resume Builder built with HTML5, CSS3, and vanilla JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "resumecraft",
+    "resume-builder",
+    "html5",
+    "css3",
+    "vanilla-javascript",
+    "dark-mode"
+  ],
+  "author": "",
+  "license": "MIT"
+}
